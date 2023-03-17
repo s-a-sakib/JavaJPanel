@@ -15,7 +15,7 @@ class FlowLayoutDemo extends JFrame {
         this.setTitle("Flow Layout Demo");
 
         c = this.getContentPane();
-        flowLayout = new FlowLayout(1,5,5);
+        flowLayout = new FlowLayout(1git ,5,5);
         c.setLayout(flowLayout);
 
         for(int i = 0 ; i < 9 ; i++){
